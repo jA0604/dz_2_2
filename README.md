@@ -36,5 +36,5 @@ git config --global user.email vasya@localhost
 
 
 ### Лицензия
-Опишите условия лицензии
+[GPLv2 (GNU General Public License Version 2)](http://www.gnu.org/licenses/gpl.html)
 
